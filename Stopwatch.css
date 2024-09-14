@@ -1,0 +1,20 @@
+.Stopwatch-main {
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .btns {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .sw-btns {
+    font-weight: bold;
+    height: 1.6rem;
+    width: 4rem;
+  }
+  

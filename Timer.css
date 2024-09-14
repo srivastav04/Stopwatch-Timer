@@ -1,0 +1,28 @@
+.Timermain {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  .err_msg {
+    color: red;
+  }
+  
+  .hour, .min, .sec {
+    padding: 0.5rem;
+  }
+  
+  .btns {
+    margin: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .buttons {
+    font-weight: bold;
+    padding: 0.5rem;
+    border-radius: 10px;
+  }
+  

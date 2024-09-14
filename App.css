@@ -1,0 +1,43 @@
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+  }
+  
+  .main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .btns-menu {
+    padding: 6px;
+    background-color: white;
+    height: 30px;
+    width: 300px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+.bns{
+    text-align: center;
+    width:5.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+  
+  .component-wrapper {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
